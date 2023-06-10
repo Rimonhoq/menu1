@@ -1,0 +1,44 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    outline:0;
+}
+header{
+    background-color:rgb(255, 250, 244);
+}
+ul{
+    list-style-type:none;
+    display:inline block;
+    
+}
+li{
+    display: inline-block;
+    padding:10px;
+    margin:5px;
+}
+a{
+    text-decoration:none;
+    color:rgb(44, 30, 30);
+    font-size:large;
+    transition: 0.8ms;
+    padding:30px;
+    display: inline-block;
+    font-family:;
+}
+a:hover{
+    background-color:rgb(170, 151, 151);
+}
+#banner{
+    background-image:url(https://static.gopro.com/assets/blta2b8522e5372af40/blt0a9dc7ac770fe702/6477826df0d737dee3b1283c/hp-q2-H11-refresh-SA-1920-desktop-2x.jpg?width=1536&quality=80&auto=webp&disable=upscale);
+    height:500px;
+    background-size:cover;
+}
+h1{
+    font-size:30px;
+    text-align:justify
+}
+h3{
+    font-size: 30px;
+}
+
